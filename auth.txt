@@ -1,21 +1,21 @@
 {
-"fonbetLogin":"79174789918",
-"fonbetPassword":"Chelseasmail1",
+"fonbetLogin":"79177376701",
+"fonbetPassword":"-123-999-Aa",
 
-"marathonLogin":"9174789918",
-"marathonPassword":"djd7YdllH44",
+"marathonLogin":"9177376701",
+"marathonPassword":"-406G-376Fag-SklP",
 
-"leonLogin":"67247865",
-"leonPassword":"djd7YdllH44",
+"leonLogin":"67246966",
+"leonPassword":"-321-777-Aa",
 
-"betboomLogin":"9174789918",
-"betboomPassword":"EWe49phq",
+"betboomLogin":"",
+"betboomPassword":"",
 
 "winlineLogin":"",
 "winlinePassword":"",
 
 "strategy":2,
 "ladderStop":4,
-"parlayStop":3,
-"flat":3000
+"parlayStop":4,
+"flat":100
 }
