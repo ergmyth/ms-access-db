@@ -151,3 +151,86 @@ Session ID: 0ff32b691bcfbb8360f4e9f8d36a4867
 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:811)
 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:715)
 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:702)
+quit
+сент. 04, 2024 11:48:32 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 128, returning the closest version; found: 125; Please update to a Selenium version that supports CDP version 128
+created
+fonbet no auth btn found yet
+fonbet auth btn FOUND YEAH!!!
+fonbet login entered
+fonbet password entered
+fonbet enter pressed
+FONBET balance not found yet
+FONBET 9 356
+FONBET auth completed
+leon no auth btn found yet
+leon auth btn FOUND YEAH!!!
+leon authbtn clicked
+leon login entered
+leon password entered
+leon enter pressed
+LEON balance not found yet
+LEON 15 003,30 ₽
+LEON auth completed
+marathon no auth btn found yet
+marathon no auth btn found yet
+marathon no auth btn found yet
+marathon no auth btn found yet
+marathon no auth btn found yet
+marathon no auth btn found yet
+marathon no auth btn found yet
+marathon no auth btn found yet
+marathon no auth btn found yet
+marathon no auth btn found yet
+java.lang.IllegalStateException: marathon no auth btn
+	at com.github.kotlintelegrambot.echo.autobetting.AutoMarathonUseCase.doAuth(AutoMarathonUseCase.kt:65)
+	at com.github.kotlintelegrambot.echo.autobetting.AutoMarathonUseCase$doAuth$1.invokeSuspend(AutoMarathonUseCase.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:811)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:715)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:702)
+
+no captcha element
+BETBOOM balance not found yet
+BETBOOM balance not found yet
+BETBOOM 15 000 ₽
+BETBOOM auth completed
+LEON 15 003,30 ₽
+LEON your current balance 15003
+FONBET 9 356
+FONBET your current balance 9356
+FONBET current coef 1.4
+FONBET  bet successful amount: 3000 map: 2 team: BB Team
+FONBET bet. seconds: 15.44
+Exception in thread "main" org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.114)
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.4', java.version: '20.0.1'
+Driver info: com.github.kotlintelegrambot.echo.cf.UndetectedChromeDriver
+Command: [8d056ab67ef967df8f6c9dc8ddddffdc, executeScript {args=[], script=window.open('');}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.114, chrome: {chromedriverVersion: 128.0.6613.119 (6e439cfca4d...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: 127.0.0.1:54483}, pageLoadStrategy: normal, platformName: any, proxy: Proxy(), se:cdp: ws://127.0.0.1:54483/devtoo..., se:cdpVersion: 128.0.6613.114, setWindowRect: false, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8d056ab67ef967df8f6c9dc8ddddffdc
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:527)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:465)
+	at com.github.kotlintelegrambot.echo.DriverCreatorKt.openUrl(DriverCreator.kt:15)
+	at com.github.kotlintelegrambot.echo.autobetting.MainKt.checkActiveMatches(Main.kt:223)
+	at com.github.kotlintelegrambot.echo.autobetting.MainKt.access$checkActiveMatches(Main.kt:1)
+	at com.github.kotlintelegrambot.echo.autobetting.MainKt$checkActiveMatches$1.invokeSuspend(Main.kt)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:811)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:715)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:702)
